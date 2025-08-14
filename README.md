@@ -1,6 +1,10 @@
 # Masonite Lean Engineering Internship – Summer 2024
 
-## Explore the full story — including detailed visuals, process diagrams, performance graphs, and complete data, in the accompanying PPT presentation.
+---
+
+⚡ **For visuals, detailed analysis, and complete data, check the accompanying PPT presentation.** ⚡
+
+---
 
 Duration: May 20 – July 30, 2024
 
@@ -12,14 +16,14 @@ Main project addressed low and inconsistent On Time & Complete (OT&C) scores (70
 
 Methodology: Applied the Kaizen process, time studies, workload balancing, and visual management tools, using Excel, and Standard Work Combination Sheets.
 
-### Key Implementations 
+## Key Implementations 
 
 1. Scheduling Board – Leveled production and standardized weekly tasks.
 2. 5S+1 Improvements – Created organized staging areas, eliminated trip hazards, and reduced injury risk.
 3. Standard Work & SOPs – Balanced workloads, increasing throughput.
 4. Leader Standard Work (LSW) – Standardized daily routines for team leads.
 
-### Results
+## Results
 
 UPMH: 1.50 → 1.77 (+18%)
 
