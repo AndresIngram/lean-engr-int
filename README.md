@@ -2,7 +2,7 @@
 
 ---
 
-⚡ **For visuals, detailed analysis, and complete data, check the accompanying PPT presentation.** ⚡
+⚡ **For visuals, detailed analysis, and complete data, check the accompanying PPT presentation above.** ⚡
 
 ---
 
