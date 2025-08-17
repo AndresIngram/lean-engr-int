@@ -1,10 +1,6 @@
 # Masonite Lean Engineering Internship – Summer 2024
 
----
-
-⚡ **For visuals, detailed analysis, and complete data, check the accompanying PPT presentation above.** ⚡
-
----
+**For visuals, detailed analysis, and complete data, check the accompanying PPT presentation above.**
 
 Lean Engineer Intern – Continuous Improvement (CI) Team, May 20 – July 30, 2024
 
