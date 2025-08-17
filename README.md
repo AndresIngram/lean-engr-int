@@ -1,7 +1,5 @@
 # Masonite Lean Engineering Internship – Summer 2024
 
-**For visuals, detailed analysis, and complete data, check the accompanying PPT presentation above.**
-
 Lean Engineer Intern – Continuous Improvement (CI) Team, May 20 – July 30, 2024
 
 Completed Kaizen training at Janesville, WI, learning lean principles such as the 10-step Kaizen process, standard work, takt time, work balance, 5S+1, Kanban, and value stream mapping, applying them through simulations and a mini Kaizen event.
